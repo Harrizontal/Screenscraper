@@ -1,0 +1,277 @@
+{
+    "success": true,
+    "errorMessage": null,
+    "data": {
+        "filmCd": "6480",
+        "filmTitle": "(D-Box) Bumblebee*",
+        "languageCd": "English",
+        "rating": "PG13",
+        "consumerAdvice": "Some Violence",
+        "priorityBkgFlg": false,
+        "subTitles": [
+            "Chinese"
+        ],
+        "locations": [
+            {
+                "id": "02*",
+                "name": "D-BOX, Bishan ",
+                "status": 1,
+                "statusMessage": null,
+                "dates": [
+                    {
+                        "date": 1546876800000,
+                        "concessionAllow": false,
+                        "times": [
+                            {
+                                "midnightDate": 1546876800000,
+                                "midnight": false,
+                                "showDate": 1546876800000,
+                                "time12": "11:15AM",
+                                "time24": "1115",
+                                "soldPercent": 0.0,
+                                "hallNumber": "2*",
+                                "concessionAllow": false,
+                                "advanceSales": false
+                            },
+                            {
+                                "midnightDate": 1546876800000,
+                                "midnight": false,
+                                "showDate": 1546876800000,
+                                "time12": "1:50PM",
+                                "time24": "1350",
+                                "soldPercent": 0.0,
+                                "hallNumber": "2*",
+                                "concessionAllow": false,
+                                "advanceSales": false
+                            },
+                            {
+                                "midnightDate": 1546876800000,
+                                "midnight": false,
+                                "showDate": 1546876800000,
+                                "time12": "4:25PM",
+                                "time24": "1625",
+                                "soldPercent": 0.0,
+                                "hallNumber": "2*",
+                                "concessionAllow": false,
+                                "advanceSales": false
+                            },
+                            {
+                                "midnightDate": 1546876800000,
+                                "midnight": false,
+                                "showDate": 1546876800000,
+                                "time12": "7:00PM",
+                                "time24": "1900",
+                                "soldPercent": 0.0,
+                                "hallNumber": "2*",
+                                "concessionAllow": false,
+                                "advanceSales": false
+                            },
+                            {
+                                "midnightDate": 1546876800000,
+                                "midnight": false,
+                                "showDate": 1546876800000,
+                                "time12": "9:35PM",
+                                "time24": "2135",
+                                "soldPercent": 0.0,
+                                "hallNumber": "2*",
+                                "concessionAllow": false,
+                                "advanceSales": false
+                            }
+                        ]
+                    },
+                    {
+                        "date": 1546963200000,
+                        "concessionAllow": false,
+                        "times": [
+                            {
+                                "midnightDate": 1546963200000,
+                                "midnight": false,
+                                "showDate": 1546963200000,
+                                "time12": "11:15AM",
+                                "time24": "1115",
+                                "soldPercent": 0.0,
+                                "hallNumber": "2*",
+                                "concessionAllow": false,
+                                "advanceSales": false
+                            },
+                            {
+                                "midnightDate": 1546963200000,
+                                "midnight": false,
+                                "showDate": 1546963200000,
+                                "time12": "1:50PM",
+                                "time24": "1350",
+                                "soldPercent": 0.0,
+                                "hallNumber": "2*",
+                                "concessionAllow": false,
+                                "advanceSales": false
+                            },
+                            {
+                                "midnightDate": 1546963200000,
+                                "midnight": false,
+                                "showDate": 1546963200000,
+                                "time12": "4:25PM",
+                                "time24": "1625",
+                                "soldPercent": 0.0,
+                                "hallNumber": "2*",
+                                "concessionAllow": false,
+                                "advanceSales": false
+                            },
+                            {
+                                "midnightDate": 1546963200000,
+                                "midnight": false,
+                                "showDate": 1546963200000,
+                                "time12": "7:00PM",
+                                "time24": "1900",
+                                "soldPercent": 0.0,
+                                "hallNumber": "2*",
+                                "concessionAllow": false,
+                                "advanceSales": false
+                            },
+                            {
+                                "midnightDate": 1546963200000,
+                                "midnight": false,
+                                "showDate": 1546963200000,
+                                "time12": "9:35PM",
+                                "time24": "2135",
+                                "soldPercent": 0.0,
+                                "hallNumber": "2*",
+                                "concessionAllow": false,
+                                "advanceSales": false
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "id": "02",
+                "name": "GV Bishan",
+                "status": 1,
+                "statusMessage": null,
+                "dates": [
+                    {
+                        "date": 1546876800000,
+                        "concessionAllow": false,
+                        "times": [
+                            {
+                                "midnightDate": 1546876800000,
+                                "midnight": false,
+                                "showDate": 1546876800000,
+                                "time12": "11:15AM",
+                                "time24": "1115",
+                                "soldPercent": 0.0,
+                                "hallNumber": "2*",
+                                "concessionAllow": false,
+                                "advanceSales": false
+                            },
+                            {
+                                "midnightDate": 1546876800000,
+                                "midnight": false,
+                                "showDate": 1546876800000,
+                                "time12": "1:50PM",
+                                "time24": "1350",
+                                "soldPercent": 0.0,
+                                "hallNumber": "2*",
+                                "concessionAllow": false,
+                                "advanceSales": false
+                            },
+                            {
+                                "midnightDate": 1546876800000,
+                                "midnight": false,
+                                "showDate": 1546876800000,
+                                "time12": "4:25PM",
+                                "time24": "1625",
+                                "soldPercent": 0.0,
+                                "hallNumber": "2*",
+                                "concessionAllow": false,
+                                "advanceSales": false
+                            },
+                            {
+                                "midnightDate": 1546876800000,
+                                "midnight": false,
+                                "showDate": 1546876800000,
+                                "time12": "7:00PM",
+                                "time24": "1900",
+                                "soldPercent": 0.0,
+                                "hallNumber": "2*",
+                                "concessionAllow": false,
+                                "advanceSales": false
+                            },
+                            {
+                                "midnightDate": 1546876800000,
+                                "midnight": false,
+                                "showDate": 1546876800000,
+                                "time12": "9:35PM",
+                                "time24": "2135",
+                                "soldPercent": 0.0,
+                                "hallNumber": "2*",
+                                "concessionAllow": false,
+                                "advanceSales": false
+                            }
+                        ]
+                    },
+                    {
+                        "date": 1546963200000,
+                        "concessionAllow": false,
+                        "times": [
+                            {
+                                "midnightDate": 1546963200000,
+                                "midnight": false,
+                                "showDate": 1546963200000,
+                                "time12": "11:15AM",
+                                "time24": "1115",
+                                "soldPercent": 0.0,
+                                "hallNumber": "2*",
+                                "concessionAllow": false,
+                                "advanceSales": false
+                            },
+                            {
+                                "midnightDate": 1546963200000,
+                                "midnight": false,
+                                "showDate": 1546963200000,
+                                "time12": "1:50PM",
+                                "time24": "1350",
+                                "soldPercent": 0.0,
+                                "hallNumber": "2*",
+                                "concessionAllow": false,
+                                "advanceSales": false
+                            },
+                            {
+                                "midnightDate": 1546963200000,
+                                "midnight": false,
+                                "showDate": 1546963200000,
+                                "time12": "4:25PM",
+                                "time24": "1625",
+                                "soldPercent": 0.0,
+                                "hallNumber": "2*",
+                                "concessionAllow": false,
+                                "advanceSales": false
+                            },
+                            {
+                                "midnightDate": 1546963200000,
+                                "midnight": false,
+                                "showDate": 1546963200000,
+                                "time12": "7:00PM",
+                                "time24": "1900",
+                                "soldPercent": 0.0,
+                                "hallNumber": "2*",
+                                "concessionAllow": false,
+                                "advanceSales": false
+                            },
+                            {
+                                "midnightDate": 1546963200000,
+                                "midnight": false,
+                                "showDate": 1546963200000,
+                                "time12": "9:35PM",
+                                "time24": "2135",
+                                "soldPercent": 0.0,
+                                "hallNumber": "2*",
+                                "concessionAllow": false,
+                                "advanceSales": false
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+}

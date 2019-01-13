@@ -1,0 +1,531 @@
+{
+    "success": true,
+    "errorMessage": null,
+    "data": {
+        "filmCd": "6425",
+        "filmTitle": "The Possession Of Hannah Grace",
+        "languageCd": "English",
+        "rating": "NC16",
+        "consumerAdvice": "Horror",
+        "priorityBkgFlg": false,
+        "subTitles": [
+            "Chinese"
+        ],
+        "locations": [
+            {
+                "id": "072",
+                "name": "Gemini Grand, Great World City",
+                "status": 1,
+                "statusMessage": null,
+                "dates": [
+                    {
+                        "date": 1546876800000,
+                        "concessionAllow": true,
+                        "times": [
+                            {
+                                "midnightDate": 1546876800000,
+                                "midnight": false,
+                                "showDate": 1546876800000,
+                                "time12": "2:20PM",
+                                "time24": "1420",
+                                "soldPercent": 0.0,
+                                "hallNumber": "2",
+                                "concessionAllow": true,
+                                "advanceSales": false
+                            }
+                        ]
+                    },
+                    {
+                        "date": 1546963200000,
+                        "concessionAllow": true,
+                        "times": [
+                            {
+                                "midnightDate": 1546963200000,
+                                "midnight": false,
+                                "showDate": 1546963200000,
+                                "time12": "2:20PM",
+                                "time24": "1420",
+                                "soldPercent": 0.0,
+                                "hallNumber": "2",
+                                "concessionAllow": true,
+                                "advanceSales": false
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "id": "03",
+                "name": "GV Tiong Bahru",
+                "status": 1,
+                "statusMessage": null,
+                "dates": [
+                    {
+                        "date": 1546876800000,
+                        "concessionAllow": true,
+                        "times": [
+                            {
+                                "midnightDate": 1546876800000,
+                                "midnight": false,
+                                "showDate": 1546876800000,
+                                "time12": "9:45PM",
+                                "time24": "2145",
+                                "soldPercent": 0.0,
+                                "hallNumber": "3",
+                                "concessionAllow": true,
+                                "advanceSales": false
+                            }
+                        ]
+                    },
+                    {
+                        "date": 1546963200000,
+                        "concessionAllow": true,
+                        "times": [
+                            {
+                                "midnightDate": 1546963200000,
+                                "midnight": false,
+                                "showDate": 1546963200000,
+                                "time12": "9:45PM",
+                                "time24": "2145",
+                                "soldPercent": 0.0,
+                                "hallNumber": "3",
+                                "concessionAllow": true,
+                                "advanceSales": false
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "id": "05",
+                "name": "GV VivoCity",
+                "status": 1,
+                "statusMessage": null,
+                "dates": [
+                    {
+                        "date": 1546876800000,
+                        "concessionAllow": true,
+                        "times": [
+                            {
+                                "midnightDate": 1546876800000,
+                                "midnight": false,
+                                "showDate": 1546876800000,
+                                "time12": "11:00AM",
+                                "time24": "1100",
+                                "soldPercent": 0.0,
+                                "hallNumber": "12",
+                                "concessionAllow": true,
+                                "advanceSales": false
+                            },
+                            {
+                                "midnightDate": 1546876800000,
+                                "midnight": false,
+                                "showDate": 1546876800000,
+                                "time12": "1:30PM",
+                                "time24": "1330",
+                                "soldPercent": 0.0,
+                                "hallNumber": "5",
+                                "concessionAllow": true,
+                                "advanceSales": false
+                            },
+                            {
+                                "midnightDate": 1546876800000,
+                                "midnight": false,
+                                "showDate": 1546876800000,
+                                "time12": "6:55PM",
+                                "time24": "1855",
+                                "soldPercent": 0.1,
+                                "hallNumber": "12",
+                                "concessionAllow": true,
+                                "advanceSales": false
+                            },
+                            {
+                                "midnightDate": 1546876800000,
+                                "midnight": false,
+                                "showDate": 1546876800000,
+                                "time12": "10:00PM",
+                                "time24": "2200",
+                                "soldPercent": 0.0,
+                                "hallNumber": "3",
+                                "concessionAllow": true,
+                                "advanceSales": false
+                            }
+                        ]
+                    },
+                    {
+                        "date": 1546963200000,
+                        "concessionAllow": true,
+                        "times": [
+                            {
+                                "midnightDate": 1546963200000,
+                                "midnight": false,
+                                "showDate": 1546963200000,
+                                "time12": "11:00AM",
+                                "time24": "1100",
+                                "soldPercent": 0.0,
+                                "hallNumber": "12",
+                                "concessionAllow": true,
+                                "advanceSales": false
+                            },
+                            {
+                                "midnightDate": 1546963200000,
+                                "midnight": false,
+                                "showDate": 1546963200000,
+                                "time12": "1:30PM",
+                                "time24": "1330",
+                                "soldPercent": 0.0,
+                                "hallNumber": "5",
+                                "concessionAllow": true,
+                                "advanceSales": false
+                            },
+                            {
+                                "midnightDate": 1546963200000,
+                                "midnight": false,
+                                "showDate": 1546963200000,
+                                "time12": "6:55PM",
+                                "time24": "1855",
+                                "soldPercent": 0.0,
+                                "hallNumber": "12",
+                                "concessionAllow": true,
+                                "advanceSales": false
+                            },
+                            {
+                                "midnightDate": 1546963200000,
+                                "midnight": false,
+                                "showDate": 1546963200000,
+                                "time12": "10:00PM",
+                                "time24": "2200",
+                                "soldPercent": 0.0,
+                                "hallNumber": "3",
+                                "concessionAllow": true,
+                                "advanceSales": false
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "id": "08",
+                "name": "GV Plaza",
+                "status": 1,
+                "statusMessage": null,
+                "dates": [
+                    {
+                        "date": 1546876800000,
+                        "concessionAllow": true,
+                        "times": [
+                            {
+                                "midnightDate": 1546876800000,
+                                "midnight": false,
+                                "showDate": 1546876800000,
+                                "time12": "1:00PM",
+                                "time24": "1300",
+                                "soldPercent": 0.0,
+                                "hallNumber": "4",
+                                "concessionAllow": true,
+                                "advanceSales": false
+                            },
+                            {
+                                "midnightDate": 1546876800000,
+                                "midnight": false,
+                                "showDate": 1546876800000,
+                                "time12": "5:25PM",
+                                "time24": "1725",
+                                "soldPercent": 0.0,
+                                "hallNumber": "4",
+                                "concessionAllow": true,
+                                "advanceSales": false
+                            },
+                            {
+                                "midnightDate": 1546876800000,
+                                "midnight": false,
+                                "showDate": 1546876800000,
+                                "time12": "9:50PM",
+                                "time24": "2150",
+                                "soldPercent": 0.0,
+                                "hallNumber": "4",
+                                "concessionAllow": true,
+                                "advanceSales": false
+                            }
+                        ]
+                    },
+                    {
+                        "date": 1546963200000,
+                        "concessionAllow": true,
+                        "times": [
+                            {
+                                "midnightDate": 1546963200000,
+                                "midnight": false,
+                                "showDate": 1546963200000,
+                                "time12": "12:30PM",
+                                "time24": "1230",
+                                "soldPercent": 0.0,
+                                "hallNumber": "4",
+                                "concessionAllow": true,
+                                "advanceSales": false
+                            },
+                            {
+                                "midnightDate": 1546963200000,
+                                "midnight": false,
+                                "showDate": 1546963200000,
+                                "time12": "4:55PM",
+                                "time24": "1655",
+                                "soldPercent": 0.0,
+                                "hallNumber": "4",
+                                "concessionAllow": true,
+                                "advanceSales": false
+                            },
+                            {
+                                "midnightDate": 1546963200000,
+                                "midnight": false,
+                                "showDate": 1546963200000,
+                                "time12": "9:50PM",
+                                "time24": "2150",
+                                "soldPercent": 0.0,
+                                "hallNumber": "4",
+                                "concessionAllow": true,
+                                "advanceSales": false
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "id": "07",
+                "name": "GV Grand, Great World City",
+                "status": 1,
+                "statusMessage": null,
+                "dates": [
+                    {
+                        "date": 1546876800000,
+                        "concessionAllow": true,
+                        "times": [
+                            {
+                                "midnightDate": 1546876800000,
+                                "midnight": false,
+                                "showDate": 1546876800000,
+                                "time12": "9:35PM",
+                                "time24": "2135",
+                                "soldPercent": 0.0,
+                                "hallNumber": "5",
+                                "concessionAllow": true,
+                                "advanceSales": false
+                            }
+                        ]
+                    },
+                    {
+                        "date": 1546963200000,
+                        "concessionAllow": true,
+                        "times": [
+                            {
+                                "midnightDate": 1546963200000,
+                                "midnight": false,
+                                "showDate": 1546963200000,
+                                "time12": "9:35PM",
+                                "time24": "2135",
+                                "soldPercent": 0.0,
+                                "hallNumber": "5",
+                                "concessionAllow": true,
+                                "advanceSales": false
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "id": "10",
+                "name": "GV Katong",
+                "status": 1,
+                "statusMessage": null,
+                "dates": [
+                    {
+                        "date": 1546876800000,
+                        "concessionAllow": true,
+                        "times": [
+                            {
+                                "midnightDate": 1546876800000,
+                                "midnight": false,
+                                "showDate": 1546876800000,
+                                "time12": "5:05PM",
+                                "time24": "1705",
+                                "soldPercent": 0.0,
+                                "hallNumber": "5",
+                                "concessionAllow": true,
+                                "advanceSales": false
+                            },
+                            {
+                                "midnightDate": 1546876800000,
+                                "midnight": false,
+                                "showDate": 1546876800000,
+                                "time12": "9:45PM",
+                                "time24": "2145",
+                                "soldPercent": 0.0,
+                                "hallNumber": "5",
+                                "concessionAllow": true,
+                                "advanceSales": false
+                            }
+                        ]
+                    },
+                    {
+                        "date": 1546963200000,
+                        "concessionAllow": true,
+                        "times": [
+                            {
+                                "midnightDate": 1546963200000,
+                                "midnight": false,
+                                "showDate": 1546963200000,
+                                "time12": "5:05PM",
+                                "time24": "1705",
+                                "soldPercent": 0.0,
+                                "hallNumber": "5",
+                                "concessionAllow": true,
+                                "advanceSales": false
+                            },
+                            {
+                                "midnightDate": 1546963200000,
+                                "midnight": false,
+                                "showDate": 1546963200000,
+                                "time12": "9:45PM",
+                                "time24": "2145",
+                                "soldPercent": 0.0,
+                                "hallNumber": "5",
+                                "concessionAllow": true,
+                                "advanceSales": false
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "id": "01",
+                "name": "GV Yishun",
+                "status": 1,
+                "statusMessage": null,
+                "dates": [
+                    {
+                        "date": 1546876800000,
+                        "concessionAllow": true,
+                        "times": [
+                            {
+                                "midnightDate": 1546876800000,
+                                "midnight": false,
+                                "showDate": 1546876800000,
+                                "time12": "12:55PM",
+                                "time24": "1255",
+                                "soldPercent": 0.0,
+                                "hallNumber": "9",
+                                "concessionAllow": true,
+                                "advanceSales": false
+                            },
+                            {
+                                "midnightDate": 1546876800000,
+                                "midnight": false,
+                                "showDate": 1546876800000,
+                                "time12": "3:00PM",
+                                "time24": "1500",
+                                "soldPercent": 0.0,
+                                "hallNumber": "9",
+                                "concessionAllow": true,
+                                "advanceSales": false
+                            },
+                            {
+                                "midnightDate": 1546876800000,
+                                "midnight": false,
+                                "showDate": 1546876800000,
+                                "time12": "5:05PM",
+                                "time24": "1705",
+                                "soldPercent": 0.0,
+                                "hallNumber": "9",
+                                "concessionAllow": true,
+                                "advanceSales": false
+                            },
+                            {
+                                "midnightDate": 1546876800000,
+                                "midnight": false,
+                                "showDate": 1546876800000,
+                                "time12": "7:10PM",
+                                "time24": "1910",
+                                "soldPercent": 0.0,
+                                "hallNumber": "9",
+                                "concessionAllow": true,
+                                "advanceSales": false
+                            },
+                            {
+                                "midnightDate": 1546876800000,
+                                "midnight": false,
+                                "showDate": 1546876800000,
+                                "time12": "9:15PM",
+                                "time24": "2115",
+                                "soldPercent": 0.0,
+                                "hallNumber": "9",
+                                "concessionAllow": true,
+                                "advanceSales": false
+                            }
+                        ]
+                    },
+                    {
+                        "date": 1546963200000,
+                        "concessionAllow": true,
+                        "times": [
+                            {
+                                "midnightDate": 1546963200000,
+                                "midnight": false,
+                                "showDate": 1546963200000,
+                                "time12": "12:55PM",
+                                "time24": "1255",
+                                "soldPercent": 0.0,
+                                "hallNumber": "9",
+                                "concessionAllow": true,
+                                "advanceSales": false
+                            },
+                            {
+                                "midnightDate": 1546963200000,
+                                "midnight": false,
+                                "showDate": 1546963200000,
+                                "time12": "3:00PM",
+                                "time24": "1500",
+                                "soldPercent": 0.0,
+                                "hallNumber": "9",
+                                "concessionAllow": true,
+                                "advanceSales": false
+                            },
+                            {
+                                "midnightDate": 1546963200000,
+                                "midnight": false,
+                                "showDate": 1546963200000,
+                                "time12": "5:05PM",
+                                "time24": "1705",
+                                "soldPercent": 0.0,
+                                "hallNumber": "9",
+                                "concessionAllow": true,
+                                "advanceSales": false
+                            },
+                            {
+                                "midnightDate": 1546963200000,
+                                "midnight": false,
+                                "showDate": 1546963200000,
+                                "time12": "7:10PM",
+                                "time24": "1910",
+                                "soldPercent": 0.0,
+                                "hallNumber": "9",
+                                "concessionAllow": true,
+                                "advanceSales": false
+                            },
+                            {
+                                "midnightDate": 1546963200000,
+                                "midnight": false,
+                                "showDate": 1546963200000,
+                                "time12": "9:15PM",
+                                "time24": "2115",
+                                "soldPercent": 0.0,
+                                "hallNumber": "9",
+                                "concessionAllow": true,
+                                "advanceSales": false
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+}

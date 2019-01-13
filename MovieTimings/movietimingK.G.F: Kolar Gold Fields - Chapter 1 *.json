@@ -1,0 +1,207 @@
+{
+    "success": true,
+    "errorMessage": null,
+    "data": {
+        "filmCd": "4839",
+        "filmTitle": "K.G.F: Kolar Gold Fields - Chapter 1*",
+        "languageCd": "Hindi",
+        "rating": "PG13",
+        "consumerAdvice": "Violence",
+        "priorityBkgFlg": false,
+        "subTitles": [
+            "English"
+        ],
+        "locations": [
+            {
+                "id": "12",
+                "name": "GV Suntec City",
+                "status": 1,
+                "statusMessage": null,
+                "dates": [
+                    {
+                        "date": 1546876800000,
+                        "concessionAllow": false,
+                        "times": [
+                            {
+                                "midnightDate": 1546876800000,
+                                "midnight": false,
+                                "showDate": 1546876800000,
+                                "time12": "6:30PM",
+                                "time24": "1830",
+                                "soldPercent": 0.0,
+                                "hallNumber": "5",
+                                "concessionAllow": false,
+                                "advanceSales": false
+                            }
+                        ]
+                    },
+                    {
+                        "date": 1546963200000,
+                        "concessionAllow": false,
+                        "times": [
+                            {
+                                "midnightDate": 1546963200000,
+                                "midnight": false,
+                                "showDate": 1546963200000,
+                                "time12": "9:15PM",
+                                "time24": "2115",
+                                "soldPercent": 0.0,
+                                "hallNumber": "1",
+                                "concessionAllow": false,
+                                "advanceSales": false
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "id": "05",
+                "name": "GV VivoCity",
+                "status": 1,
+                "statusMessage": null,
+                "dates": [
+                    {
+                        "date": 1546876800000,
+                        "concessionAllow": false,
+                        "times": [
+                            {
+                                "midnightDate": 1546876800000,
+                                "midnight": false,
+                                "showDate": 1546876800000,
+                                "time12": "6:45PM",
+                                "time24": "1845",
+                                "soldPercent": 0.0,
+                                "hallNumber": "3",
+                                "concessionAllow": false,
+                                "advanceSales": false
+                            }
+                        ]
+                    },
+                    {
+                        "date": 1546963200000,
+                        "concessionAllow": false,
+                        "times": [
+                            {
+                                "midnightDate": 1546963200000,
+                                "midnight": false,
+                                "showDate": 1546963200000,
+                                "time12": "6:45PM",
+                                "time24": "1845",
+                                "soldPercent": 0.0,
+                                "hallNumber": "3",
+                                "concessionAllow": false,
+                                "advanceSales": false
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "id": "09",
+                "name": "GV Tampines",
+                "status": 1,
+                "statusMessage": null,
+                "dates": [
+                    {
+                        "date": 1546876800000,
+                        "concessionAllow": false,
+                        "times": [
+                            {
+                                "midnightDate": 1546876800000,
+                                "midnight": false,
+                                "showDate": 1546876800000,
+                                "time12": "9:35PM",
+                                "time24": "2135",
+                                "soldPercent": 0.0,
+                                "hallNumber": "6",
+                                "concessionAllow": false,
+                                "advanceSales": false
+                            }
+                        ]
+                    },
+                    {
+                        "date": 1546963200000,
+                        "concessionAllow": false,
+                        "times": [
+                            {
+                                "midnightDate": 1546963200000,
+                                "midnight": false,
+                                "showDate": 1546963200000,
+                                "time12": "9:00PM",
+                                "time24": "2100",
+                                "soldPercent": 0.0,
+                                "hallNumber": "6",
+                                "concessionAllow": false,
+                                "advanceSales": false
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "id": "11",
+                "name": "GV City Square",
+                "status": 1,
+                "statusMessage": null,
+                "dates": [
+                    {
+                        "date": 1546876800000,
+                        "concessionAllow": false,
+                        "times": [
+                            {
+                                "midnightDate": 1546876800000,
+                                "midnight": false,
+                                "showDate": 1546876800000,
+                                "time12": "12:00PM",
+                                "time24": "1200",
+                                "soldPercent": 0.0,
+                                "hallNumber": "2",
+                                "concessionAllow": false,
+                                "advanceSales": false
+                            },
+                            {
+                                "midnightDate": 1546876800000,
+                                "midnight": false,
+                                "showDate": 1546876800000,
+                                "time12": "6:15PM",
+                                "time24": "1815",
+                                "soldPercent": 0.0,
+                                "hallNumber": "2",
+                                "concessionAllow": false,
+                                "advanceSales": false
+                            }
+                        ]
+                    },
+                    {
+                        "date": 1546963200000,
+                        "concessionAllow": false,
+                        "times": [
+                            {
+                                "midnightDate": 1546963200000,
+                                "midnight": false,
+                                "showDate": 1546963200000,
+                                "time12": "12:00PM",
+                                "time24": "1200",
+                                "soldPercent": 0.0,
+                                "hallNumber": "2",
+                                "concessionAllow": false,
+                                "advanceSales": false
+                            },
+                            {
+                                "midnightDate": 1546963200000,
+                                "midnight": false,
+                                "showDate": 1546963200000,
+                                "time12": "6:15PM",
+                                "time24": "1815",
+                                "soldPercent": 0.0,
+                                "hallNumber": "2",
+                                "concessionAllow": false,
+                                "advanceSales": false
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+}

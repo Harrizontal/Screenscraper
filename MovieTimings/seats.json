@@ -1,0 +1,1014 @@
+{
+    "success": true,
+    "errorMessage": null,
+    "data": [
+        [
+            {
+                "rowId": "A",
+                "columnId": "01",
+                "rowNumber": 1,
+                "colNumber": 1,
+                "type": "N",
+                "sectionId": "1",
+                "status": "L",
+                "id": "A:01"
+            },
+            {
+                "rowId": "A",
+                "columnId": "02",
+                "rowNumber": 1,
+                "colNumber": 2,
+                "type": "N",
+                "sectionId": "1",
+                "status": "L",
+                "id": "A:02"
+            },
+            {
+                "rowId": "A",
+                "columnId": "03",
+                "rowNumber": 1,
+                "colNumber": 3,
+                "type": "N",
+                "sectionId": "1",
+                "status": "L",
+                "id": "A:03"
+            },
+            {
+                "rowId": "A",
+                "columnId": "04",
+                "rowNumber": 1,
+                "colNumber": 4,
+                "type": "N",
+                "sectionId": "1",
+                "status": "L",
+                "id": "A:04"
+            },
+            {
+                "rowId": "A",
+                "columnId": "05",
+                "rowNumber": 1,
+                "colNumber": 5,
+                "type": "N",
+                "sectionId": "1",
+                "status": "L",
+                "id": "A:05"
+            },
+            {
+                "rowId": "A",
+                "columnId": "06",
+                "rowNumber": 1,
+                "colNumber": 6,
+                "type": "N",
+                "sectionId": "1",
+                "status": "L",
+                "id": "A:06"
+            },
+            {
+                "rowId": "A",
+                "columnId": "07",
+                "rowNumber": 1,
+                "colNumber": 7,
+                "type": "N",
+                "sectionId": "1",
+                "status": "L",
+                "id": "A:07"
+            },
+            {
+                "rowId": "A",
+                "columnId": "08",
+                "rowNumber": 1,
+                "colNumber": 8,
+                "type": "N",
+                "sectionId": "1",
+                "status": "L",
+                "id": "A:08"
+            },
+            {
+                "rowId": "A",
+                "columnId": "09",
+                "rowNumber": 1,
+                "colNumber": 9,
+                "type": "N",
+                "sectionId": "1",
+                "status": "L",
+                "id": "A:09"
+            },
+            {
+                "rowId": "A",
+                "columnId": "10",
+                "rowNumber": 1,
+                "colNumber": 10,
+                "type": "N",
+                "sectionId": "1",
+                "status": "L",
+                "id": "A:10"
+            },
+            {
+                "rowId": "A",
+                "columnId": "11",
+                "rowNumber": 1,
+                "colNumber": 11,
+                "type": "N",
+                "sectionId": "1",
+                "status": "L",
+                "id": "A:11"
+            }
+        ],
+        [
+            {
+                "rowId": "B",
+                "columnId": "01",
+                "rowNumber": 2,
+                "colNumber": 1,
+                "type": "N",
+                "sectionId": "1",
+                "status": "L",
+                "id": "B:01"
+            },
+            {
+                "rowId": "B",
+                "columnId": "02",
+                "rowNumber": 2,
+                "colNumber": 2,
+                "type": "N",
+                "sectionId": "1",
+                "status": "L",
+                "id": "B:02"
+            },
+            {
+                "rowId": "B",
+                "columnId": "03",
+                "rowNumber": 2,
+                "colNumber": 3,
+                "type": "N",
+                "sectionId": "1",
+                "status": "L",
+                "id": "B:03"
+            },
+            {
+                "rowId": "B",
+                "columnId": "04",
+                "rowNumber": 2,
+                "colNumber": 4,
+                "type": "N",
+                "sectionId": "1",
+                "status": "L",
+                "id": "B:04"
+            },
+            {
+                "rowId": "B",
+                "columnId": "05",
+                "rowNumber": 2,
+                "colNumber": 5,
+                "type": "N",
+                "sectionId": "1",
+                "status": "L",
+                "id": "B:05"
+            },
+            {
+                "rowId": "B",
+                "columnId": "06",
+                "rowNumber": 2,
+                "colNumber": 6,
+                "type": "N",
+                "sectionId": "1",
+                "status": "L",
+                "id": "B:06"
+            },
+            {
+                "rowId": "B",
+                "columnId": "07",
+                "rowNumber": 2,
+                "colNumber": 7,
+                "type": "N",
+                "sectionId": "1",
+                "status": "L",
+                "id": "B:07"
+            },
+            {
+                "rowId": "B",
+                "columnId": "08",
+                "rowNumber": 2,
+                "colNumber": 8,
+                "type": "N",
+                "sectionId": "1",
+                "status": "L",
+                "id": "B:08"
+            },
+            {
+                "rowId": "B",
+                "columnId": "09",
+                "rowNumber": 2,
+                "colNumber": 9,
+                "type": "N",
+                "sectionId": "1",
+                "status": "L",
+                "id": "B:09"
+            },
+            {
+                "rowId": "B",
+                "columnId": "10",
+                "rowNumber": 2,
+                "colNumber": 10,
+                "type": "N",
+                "sectionId": "1",
+                "status": "L",
+                "id": "B:10"
+            },
+            {
+                "rowId": "B",
+                "columnId": "11",
+                "rowNumber": 2,
+                "colNumber": 11,
+                "type": "N",
+                "sectionId": "1",
+                "status": "L",
+                "id": "B:11"
+            }
+        ],
+        [
+            {
+                "rowId": "C",
+                "columnId": "01",
+                "rowNumber": 3,
+                "colNumber": 1,
+                "type": "N",
+                "sectionId": "1",
+                "status": "T",
+                "id": "C:01"
+            },
+            {
+                "rowId": "C",
+                "columnId": "02",
+                "rowNumber": 3,
+                "colNumber": 2,
+                "type": "N",
+                "sectionId": "1",
+                "status": "T",
+                "id": "C:02"
+            },
+            {
+                "rowId": "C",
+                "columnId": "03",
+                "rowNumber": 3,
+                "colNumber": 3,
+                "type": "N",
+                "sectionId": "1",
+                "status": "T",
+                "id": "C:03"
+            },
+            {
+                "rowId": "C",
+                "columnId": "04",
+                "rowNumber": 3,
+                "colNumber": 4,
+                "type": "N",
+                "sectionId": "1",
+                "status": "T",
+                "id": "C:04"
+            },
+            {
+                "rowId": "C",
+                "columnId": "05",
+                "rowNumber": 3,
+                "colNumber": 5,
+                "type": "N",
+                "sectionId": "1",
+                "status": "B",
+                "id": "C:05"
+            },
+            {
+                "rowId": "C",
+                "columnId": "06",
+                "rowNumber": 3,
+                "colNumber": 6,
+                "type": "N",
+                "sectionId": "1",
+                "status": "B",
+                "id": "C:06"
+            },
+            {
+                "rowId": "C",
+                "columnId": "07",
+                "rowNumber": 3,
+                "colNumber": 7,
+                "type": "N",
+                "sectionId": "1",
+                "status": "B",
+                "id": "C:07"
+            },
+            {
+                "rowId": "C",
+                "columnId": "08",
+                "rowNumber": 3,
+                "colNumber": 8,
+                "type": "N",
+                "sectionId": "1",
+                "status": "L",
+                "id": "C:08"
+            },
+            {
+                "rowId": "C",
+                "columnId": "09",
+                "rowNumber": 3,
+                "colNumber": 9,
+                "type": "N",
+                "sectionId": "1",
+                "status": "L",
+                "id": "C:09"
+            },
+            {
+                "rowId": "C",
+                "columnId": "10",
+                "rowNumber": 3,
+                "colNumber": 10,
+                "type": "N",
+                "sectionId": "1",
+                "status": "B",
+                "id": "C:10"
+            },
+            {
+                "rowId": "C",
+                "columnId": "11",
+                "rowNumber": 3,
+                "colNumber": 11,
+                "type": "N",
+                "sectionId": "1",
+                "status": "B",
+                "id": "C:11"
+            }
+        ],
+        [
+            {
+                "rowId": "D",
+                "columnId": "01",
+                "rowNumber": 4,
+                "colNumber": 1,
+                "type": "N",
+                "sectionId": "1",
+                "status": "B",
+                "id": "D:01"
+            },
+            {
+                "rowId": "D",
+                "columnId": "02",
+                "rowNumber": 4,
+                "colNumber": 2,
+                "type": "N",
+                "sectionId": "1",
+                "status": "B",
+                "id": "D:02"
+            },
+            {
+                "rowId": "D",
+                "columnId": "03",
+                "rowNumber": 4,
+                "colNumber": 3,
+                "type": "N",
+                "sectionId": "1",
+                "status": "B",
+                "id": "D:03"
+            },
+            {
+                "rowId": "D",
+                "columnId": "04",
+                "rowNumber": 4,
+                "colNumber": 4,
+                "type": "N",
+                "sectionId": "1",
+                "status": "B",
+                "id": "D:04"
+            },
+            {
+                "rowId": "D",
+                "columnId": "05",
+                "rowNumber": 4,
+                "colNumber": 5,
+                "type": "N",
+                "sectionId": "1",
+                "status": "B",
+                "id": "D:05"
+            },
+            {
+                "rowId": "D",
+                "columnId": "06",
+                "rowNumber": 4,
+                "colNumber": 6,
+                "type": "N",
+                "sectionId": "1",
+                "status": "B",
+                "id": "D:06"
+            },
+            {
+                "rowId": "D",
+                "columnId": "07",
+                "rowNumber": 4,
+                "colNumber": 7,
+                "type": "N",
+                "sectionId": "1",
+                "status": "B",
+                "id": "D:07"
+            },
+            {
+                "rowId": "D",
+                "columnId": "08",
+                "rowNumber": 4,
+                "colNumber": 8,
+                "type": "N",
+                "sectionId": "1",
+                "status": "B",
+                "id": "D:08"
+            },
+            {
+                "rowId": "D",
+                "columnId": "09",
+                "rowNumber": 4,
+                "colNumber": 9,
+                "type": "N",
+                "sectionId": "1",
+                "status": "B",
+                "id": "D:09"
+            },
+            {
+                "rowId": "D",
+                "columnId": "10",
+                "rowNumber": 4,
+                "colNumber": 10,
+                "type": "N",
+                "sectionId": "1",
+                "status": "B",
+                "id": "D:10"
+            },
+            {
+                "rowId": "D",
+                "columnId": "11",
+                "rowNumber": 4,
+                "colNumber": 11,
+                "type": "N",
+                "sectionId": "1",
+                "status": "L",
+                "id": "D:11"
+            }
+        ],
+        [
+            {
+                "rowId": "E",
+                "columnId": "01",
+                "rowNumber": 5,
+                "colNumber": 1,
+                "type": "N",
+                "sectionId": "1",
+                "status": "B",
+                "id": "E:01"
+            },
+            {
+                "rowId": "E",
+                "columnId": "02",
+                "rowNumber": 5,
+                "colNumber": 2,
+                "type": "N",
+                "sectionId": "1",
+                "status": "B",
+                "id": "E:02"
+            },
+            {
+                "rowId": "E",
+                "columnId": "03",
+                "rowNumber": 5,
+                "colNumber": 3,
+                "type": "N",
+                "sectionId": "1",
+                "status": "B",
+                "id": "E:03"
+            },
+            {
+                "rowId": "E",
+                "columnId": "04",
+                "rowNumber": 5,
+                "colNumber": 4,
+                "type": "N",
+                "sectionId": "1",
+                "status": "B",
+                "id": "E:04"
+            },
+            {
+                "rowId": "E",
+                "columnId": "05",
+                "rowNumber": 5,
+                "colNumber": 5,
+                "type": "N",
+                "sectionId": "1",
+                "status": "B",
+                "id": "E:05"
+            },
+            {
+                "rowId": "E",
+                "columnId": "06",
+                "rowNumber": 5,
+                "colNumber": 6,
+                "type": "N",
+                "sectionId": "1",
+                "status": "B",
+                "id": "E:06"
+            },
+            {
+                "rowId": "E",
+                "columnId": "07",
+                "rowNumber": 5,
+                "colNumber": 7,
+                "type": "N",
+                "sectionId": "1",
+                "status": "B",
+                "id": "E:07"
+            },
+            {
+                "rowId": "E",
+                "columnId": "08",
+                "rowNumber": 5,
+                "colNumber": 8,
+                "type": "N",
+                "sectionId": "1",
+                "status": "B",
+                "id": "E:08"
+            },
+            {
+                "rowId": "E",
+                "columnId": "09",
+                "rowNumber": 5,
+                "colNumber": 9,
+                "type": "N",
+                "sectionId": "1",
+                "status": "B",
+                "id": "E:09"
+            },
+            {
+                "rowId": "E",
+                "columnId": "10",
+                "rowNumber": 5,
+                "colNumber": 10,
+                "type": "N",
+                "sectionId": "1",
+                "status": "B",
+                "id": "E:10"
+            },
+            {
+                "rowId": "E",
+                "columnId": "11",
+                "rowNumber": 5,
+                "colNumber": 11,
+                "type": "N",
+                "sectionId": "1",
+                "status": "B",
+                "id": "E:11"
+            }
+        ],
+        [
+            {
+                "rowId": "F",
+                "columnId": "01",
+                "rowNumber": 6,
+                "colNumber": 1,
+                "type": "N",
+                "sectionId": "1",
+                "status": "B",
+                "id": "F:01"
+            },
+            {
+                "rowId": "F",
+                "columnId": "02",
+                "rowNumber": 6,
+                "colNumber": 2,
+                "type": "N",
+                "sectionId": "1",
+                "status": "B",
+                "id": "F:02"
+            },
+            {
+                "rowId": "F",
+                "columnId": "03",
+                "rowNumber": 6,
+                "colNumber": 3,
+                "type": "N",
+                "sectionId": "1",
+                "status": "B",
+                "id": "F:03"
+            },
+            {
+                "rowId": "F",
+                "columnId": "04",
+                "rowNumber": 6,
+                "colNumber": 4,
+                "type": "N",
+                "sectionId": "1",
+                "status": "B",
+                "id": "F:04"
+            },
+            {
+                "rowId": "F",
+                "columnId": "05",
+                "rowNumber": 6,
+                "colNumber": 5,
+                "type": "N",
+                "sectionId": "1",
+                "status": "B",
+                "id": "F:05"
+            },
+            {
+                "rowId": "F",
+                "columnId": "06",
+                "rowNumber": 6,
+                "colNumber": 6,
+                "type": "N",
+                "sectionId": "1",
+                "status": "B",
+                "id": "F:06"
+            },
+            {
+                "rowId": "F",
+                "columnId": "07",
+                "rowNumber": 6,
+                "colNumber": 7,
+                "type": "N",
+                "sectionId": "1",
+                "status": "B",
+                "id": "F:07"
+            },
+            {
+                "rowId": "F",
+                "columnId": "08",
+                "rowNumber": 6,
+                "colNumber": 8,
+                "type": "N",
+                "sectionId": "1",
+                "status": "B",
+                "id": "F:08"
+            },
+            {
+                "rowId": "F",
+                "columnId": "09",
+                "rowNumber": 6,
+                "colNumber": 9,
+                "type": "N",
+                "sectionId": "1",
+                "status": "B",
+                "id": "F:09"
+            },
+            {
+                "rowId": "F",
+                "columnId": "10",
+                "rowNumber": 6,
+                "colNumber": 10,
+                "type": "N",
+                "sectionId": "1",
+                "status": "B",
+                "id": "F:10"
+            },
+            {
+                "rowId": "F",
+                "columnId": "11",
+                "rowNumber": 6,
+                "colNumber": 11,
+                "type": "N",
+                "sectionId": "1",
+                "status": "T",
+                "id": "F:11"
+            }
+        ],
+        [
+            {
+                "rowId": "G",
+                "columnId": "01",
+                "rowNumber": 7,
+                "colNumber": 1,
+                "type": "N",
+                "sectionId": "1",
+                "status": "B",
+                "id": "G:01"
+            },
+            {
+                "rowId": "G",
+                "columnId": "02",
+                "rowNumber": 7,
+                "colNumber": 2,
+                "type": "N",
+                "sectionId": "1",
+                "status": "B",
+                "id": "G:02"
+            },
+            {
+                "rowId": "G",
+                "columnId": "03",
+                "rowNumber": 7,
+                "colNumber": 3,
+                "type": "N",
+                "sectionId": "1",
+                "status": "B",
+                "id": "G:03"
+            },
+            {
+                "rowId": "G",
+                "columnId": "04",
+                "rowNumber": 7,
+                "colNumber": 4,
+                "type": "N",
+                "sectionId": "1",
+                "status": "L",
+                "id": "G:04"
+            },
+            {
+                "rowId": "G",
+                "columnId": "05",
+                "rowNumber": 7,
+                "colNumber": 5,
+                "type": "N",
+                "sectionId": "1",
+                "status": "B",
+                "id": "G:05"
+            },
+            {
+                "rowId": "G",
+                "columnId": "06",
+                "rowNumber": 7,
+                "colNumber": 6,
+                "type": "N",
+                "sectionId": "1",
+                "status": "B",
+                "id": "G:06"
+            },
+            {
+                "rowId": "G",
+                "columnId": "07",
+                "rowNumber": 7,
+                "colNumber": 7,
+                "type": "N",
+                "sectionId": "1",
+                "status": "L",
+                "id": "G:07"
+            },
+            {
+                "rowId": "G",
+                "columnId": "08",
+                "rowNumber": 7,
+                "colNumber": 8,
+                "type": "H",
+                "sectionId": "1",
+                "status": "B",
+                "id": "G:08"
+            },
+            {
+                "rowId": "G",
+                "columnId": "09",
+                "rowNumber": 7,
+                "colNumber": 9,
+                "type": "H",
+                "sectionId": "1",
+                "status": "B",
+                "id": "G:09"
+            },
+            {
+                "rowId": "G",
+                "columnId": "10",
+                "rowNumber": 7,
+                "colNumber": 10,
+                "type": "N",
+                "sectionId": "1",
+                "status": "T",
+                "id": "G:10"
+            },
+            {
+                "rowId": "G",
+                "columnId": "11",
+                "rowNumber": 7,
+                "colNumber": 11,
+                "type": "N",
+                "sectionId": "1",
+                "status": "B",
+                "id": "G:11"
+            }
+        ],
+        [
+            {
+                "rowId": "H",
+                "columnId": "01",
+                "rowNumber": 8,
+                "colNumber": 1,
+                "type": "N",
+                "sectionId": "1",
+                "status": "B",
+                "id": "H:01"
+            },
+            {
+                "rowId": "H",
+                "columnId": "02",
+                "rowNumber": 8,
+                "colNumber": 2,
+                "type": "N",
+                "sectionId": "1",
+                "status": "B",
+                "id": "H:02"
+            },
+            {
+                "rowId": "H",
+                "columnId": "03",
+                "rowNumber": 8,
+                "colNumber": 3,
+                "type": "N",
+                "sectionId": "1",
+                "status": "B",
+                "id": "H:03"
+            },
+            {
+                "rowId": "H",
+                "columnId": "04",
+                "rowNumber": 8,
+                "colNumber": 4,
+                "type": "N",
+                "sectionId": "1",
+                "status": "B",
+                "id": "H:04"
+            },
+            {
+                "rowId": "H",
+                "columnId": "05",
+                "rowNumber": 8,
+                "colNumber": 5,
+                "type": "N",
+                "sectionId": "1",
+                "status": "B",
+                "id": "H:05"
+            },
+            {
+                "rowId": "H",
+                "columnId": "06",
+                "rowNumber": 8,
+                "colNumber": 6,
+                "type": "N",
+                "sectionId": "1",
+                "status": "B",
+                "id": "H:06"
+            },
+            {
+                "rowId": "H",
+                "columnId": "07",
+                "rowNumber": 8,
+                "colNumber": 7,
+                "type": "N",
+                "sectionId": "1",
+                "status": "L",
+                "id": "H:07"
+            },
+            {
+                "rowId": "H",
+                "columnId": "08",
+                "rowNumber": 8,
+                "colNumber": 8,
+                "type": "N",
+                "sectionId": "1",
+                "status": "B",
+                "id": "H:08"
+            },
+            {
+                "rowId": "H",
+                "columnId": "09",
+                "rowNumber": 8,
+                "colNumber": 9,
+                "type": "N",
+                "sectionId": "1",
+                "status": "B",
+                "id": "H:09"
+            },
+            {
+                "rowId": "H",
+                "columnId": "10",
+                "rowNumber": 8,
+                "colNumber": 10,
+                "type": "N",
+                "sectionId": "1",
+                "status": "B",
+                "id": "H:10"
+            },
+            {
+                "rowId": "H",
+                "columnId": "11",
+                "rowNumber": 8,
+                "colNumber": 11,
+                "type": "N",
+                "sectionId": "1",
+                "status": "B",
+                "id": "H:11"
+            }
+        ],
+        [
+            {
+                "rowId": "J",
+                "columnId": "01",
+                "rowNumber": 9,
+                "colNumber": 1,
+                "type": "N",
+                "sectionId": "1",
+                "status": "L",
+                "id": "J:01"
+            },
+            {
+                "rowId": "J",
+                "columnId": "02",
+                "rowNumber": 9,
+                "colNumber": 2,
+                "type": "W",
+                "sectionId": "1",
+                "status": "L",
+                "id": "J:02"
+            },
+            {
+                "rowId": null,
+                "columnId": null,
+                "rowNumber": 9,
+                "colNumber": 3,
+                "type": null,
+                "sectionId": null,
+                "status": null,
+                "id": null
+            },
+            {
+                "rowId": null,
+                "columnId": null,
+                "rowNumber": 9,
+                "colNumber": 4,
+                "type": null,
+                "sectionId": null,
+                "status": null,
+                "id": null
+            },
+            {
+                "rowId": null,
+                "columnId": null,
+                "rowNumber": 9,
+                "colNumber": 5,
+                "type": null,
+                "sectionId": null,
+                "status": null,
+                "id": null
+            },
+            {
+                "rowId": null,
+                "columnId": null,
+                "rowNumber": 9,
+                "colNumber": 6,
+                "type": null,
+                "sectionId": null,
+                "status": null,
+                "id": null
+            },
+            {
+                "rowId": null,
+                "columnId": null,
+                "rowNumber": 9,
+                "colNumber": 7,
+                "type": null,
+                "sectionId": null,
+                "status": null,
+                "id": null
+            },
+            {
+                "rowId": null,
+                "columnId": null,
+                "rowNumber": 9,
+                "colNumber": 8,
+                "type": null,
+                "sectionId": null,
+                "status": null,
+                "id": null
+            },
+            {
+                "rowId": null,
+                "columnId": null,
+                "rowNumber": 9,
+                "colNumber": 9,
+                "type": null,
+                "sectionId": null,
+                "status": null,
+                "id": null
+            },
+            {
+                "rowId": "J",
+                "columnId": "10",
+                "rowNumber": 9,
+                "colNumber": 10,
+                "type": "W",
+                "sectionId": "1",
+                "status": "L",
+                "id": "J:10"
+            },
+            {
+                "rowId": "J",
+                "columnId": "11",
+                "rowNumber": 9,
+                "colNumber": 11,
+                "type": "H",
+                "sectionId": "1",
+                "status": "B",
+                "id": "J:11"
+            }
+        ]
+    ]
+}
